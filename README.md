@@ -1,4 +1,4 @@
-# CTEC 227 - Lab No. 5
+# CTEC 227 - Lab No. 7
 
 ## Details
 
