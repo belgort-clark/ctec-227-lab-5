@@ -2,7 +2,7 @@
 
 ## Details
 
-- Create a new PHP script and name it lab5.php
+- Create a new PHP script and name it lab7.php
 - Study the [ctec_functions.php](inc/ctec_functions.php) file 
 - Be sure to **require once** this file in your lab5.php script
 - For each of the functions in the **ctec_functions.php** code, create code that will test each of the functions
